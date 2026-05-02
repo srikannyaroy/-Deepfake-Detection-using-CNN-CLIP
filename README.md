@@ -71,6 +71,6 @@ Split:
 | Real |   0.96   |  0.99  |   0.98   |
 
 ## Installation
-git clone https://github.com/your-username/deepfake-detection-cnn-clip.git
-cd deepfake-detection-cnn-clip
-pip install -r requirements.txt
+1.git clone https://github.com/your-username/deepfake-detection-cnn-clip.git
+2.cd deepfake-detection-cnn-clip
+3.pip install -r requirements.txt
