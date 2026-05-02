@@ -55,7 +55,20 @@ Split:
 - Predict per frame  
 - Aggregate results  
 - Output: **REAL / FAKE with confidence**
+  
+## 📊 Results on deepfake data
 
+### 🔹 Performance Metrics
+- **Test Accuracy:** 97.60%  
+- **ROC-AUC Score:** 0.9968  
+- **F1 Score:** 0.98  
+
+
+### 🔹 Classification Report
+| Class | Precision | Recall | F1-score |
+|------|----------|--------|----------|
+| Fake |   0.99   |  0.96  |   0.98   |
+| Real |   0.96   |  0.99  |   0.98   |
 
 ## Installation
 git clone https://github.com/your-username/deepfake-detection-cnn-clip.git
